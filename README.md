@@ -31,7 +31,8 @@
 
 ## .ᴜᴩᴅᴀᴛᴇꜱ🔊
 
-[![ᴜᴩᴅᴀᴛᴇꜱ](https://img.shields.io/badge/ᴜᴩᴅᴀᴛᴇꜱ-https://t.me/ek_2je_ke_vastee-red?style=for-the-badge&logo=telegram)](https://t.me/)</br></br>
+[![ᴜᴩᴅᴀᴛᴇꜱ](https://img.shields.io/badge/ᴜᴩᴅᴀᴛᴇꜱ-
+ek_2je_ke_vastee-red?style=for-the-badge&logo=telegram)](https://t.me/)</br></br>
 
 </p>
 
