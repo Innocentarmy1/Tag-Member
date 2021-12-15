@@ -1,0 +1,22 @@
+0
+  "name": " Tag Members Bot ",
+  "logo":"https://te.legra.ph/file/bfc3e137fc23773b4cd74.jpg",
+  "description": " Tag Members Bot Build with Telethon",
+  "env": {
+    "TOKEN": {
+      "description": "Bot Token, Get It From @BotFather.",
+      "value": ""
+    },
+    "API_ID": {
+      "description": "Api ID get it from my.telegram.org.",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Api Hash get it from my.telegram.org.",
+      "value": ""
+    }
+  },
+  "buildpacks": [{
+    "url": "https://github.com/heroku/heroku-buildpack-python.git"
+  }]
+}
